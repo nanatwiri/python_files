@@ -22,4 +22,6 @@ print(f"Your First name is, {first_name} and your Job is, {Occupation}")
 # handling non string input
 age = int(input("please enter your age:"))
 
+# include the data type before the input section to inform the application that computations are likely to occur like calculating age and so on and so on
+
 print(f"In two years, your age will be : {age+2}")
