@@ -19,7 +19,7 @@ student_mark = int(input("Enter final Mark: "))
 
 # Here we introduce elif a function in python which is under if functions
 if (student_mark >= 70):
-    print("CONGRATULATIONS!!")
+    print("CONGRATULATIONS!!!")
     print("Pass: Grade A")
 elif (student_mark >= 60):
     print("Pass: Grade B")
