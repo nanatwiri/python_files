@@ -3,10 +3,12 @@ ea_cities = {"Kampala", "Nairobi", "Arusha", "Mombasa", "Nairobi"}
 
 print(ea_cities)
 
+# to count the number of cities
 print(f"There are {len(ea_cities)} cities in the set")
 
 print(type(ea_cities))
 
+# to add a city to the set
 ea_cities.add("Kigali")
 print(ea_cities)
 
