@@ -22,6 +22,7 @@ my_char = ('a')
 # for the variables such as my_string the underscore(_) is important
 # the oart above is sorta like declaring the variables and the lower part is the output part of what we declared.
 
+
 print(type(x))
 print(type(y))
 print(type(a))

@@ -7,3 +7,8 @@ print ("hello world")
 print (2+2)
 
 print( 10 % 3)
+
+#you save your work first then run the code to ensure it runs effectively
+
+age = int(input("enter your age"))
+print (f"in the next two years you will be {age-2}")
